@@ -48,7 +48,7 @@ const Agent = ({ userName }: AgentProps) => {
           </div>
         </div>
           </div>
-          
+          {/*  */}
           {messages.length > 0 && (
               <div className="transcript-border">
                   <div className="transcript">
